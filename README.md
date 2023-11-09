@@ -1,8 +1,8 @@
-Portfolio
-This is a Next.js project with create-next-app.
+  Portfolio
+  This is a Next.js project with create-next-app.
 
-First, run the development server:
-
+  First, run the development server:
+    
   npm run dev
    or
   yarn dev
